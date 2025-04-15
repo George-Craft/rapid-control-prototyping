@@ -10,3 +10,6 @@ A project where I modelled, simulated and implemented an advanced multivariable 
 3. Navigate to the project directory and open the simulation folder, then open both the simulink model and matlab code.
 4. Run the MATLAB code first, then the Simulink model.
 
+## Results
+Results can be seen inside the project report in the results folder.
+
