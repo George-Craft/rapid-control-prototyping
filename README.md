@@ -7,6 +7,7 @@ A project where I modelled, simulated and implemented an advanced multivariable 
 2. Clone the repository:
    ```bash
    git clone https://github.com/George-Craft/rapid-control-prototyping-project.git
+### For simulation
 3. Navigate to the project directory and open the simulation folder, then open both the simulink model and matlab code.
 4. Run the MATLAB code first, then the Simulink model.
 
